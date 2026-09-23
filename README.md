@@ -1,8 +1,9 @@
-# Template for practical exercise "NPM Homepage" #
+# Template for practical exercise on CSS Flexbox: "NPM Homepage" #
 
 <br>
 
-This repository contains the template for the practical exercise "NPM Homepage".
+This repository contains the template for the practical exercise on
+[CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 
 <br>
 
