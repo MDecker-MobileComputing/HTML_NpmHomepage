@@ -7,6 +7,11 @@ This repository contains the template for the practical exercise on
 
 <br>
 
+The template is served by *GitHub Pages*, but not much to see there:
+https://mdecker-mobilecomputing.github.io/HTML_NpmHomepage/
+
+<br>
+
 ----
 
 ## License ##
